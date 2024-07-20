@@ -1,7 +1,7 @@
 ## Artigo sobre kubernets gerado por IA.
 
 
-# [📚CLICK TO READ]() #
+# [📚CLICK TO READ](https://web.dio.me/articles/desmistificando-kubernetes-conceitos-e-melhores-praticas?back=%2Farticles&open-modal=true&page=1&order=oldest) #
 
 
 # 💻 TECHNOLOGIES USED. #
